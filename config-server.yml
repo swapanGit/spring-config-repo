@@ -8,7 +8,7 @@ my:
 
 
 db:
-  connection: http://localhost-default-from-config-server
+  connection: http://localhost-default-from-config-server-updated
   host: 127.0.0.1
   port: 1988
 
