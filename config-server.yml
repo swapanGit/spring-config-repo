@@ -1,0 +1,14 @@
+
+my:
+  greeting: Hello Greeting from config-server
+  list:
+    value: one,two,three
+  db:
+    values: "{url:'http://localhost:something', userName:'myname', password:'mypass'}"
+
+
+db:
+  connection: http://localhost-default-from-config-server
+  host: 127.0.0.1
+  port: 1988
+
